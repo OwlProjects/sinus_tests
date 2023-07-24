@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1494558872/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1494558872/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1494558872/PATH/value=D\:/soft/eclipse_mcu//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416/jre/bin/server;D\:/soft/eclipse_mcu//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416/jre/bin;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\WINDOWS\\System32\\OpenSSH\\;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Program Files\\dotnet\\;C\:\\Users\\serviceman\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\Users\\serviceman\\.dotnet\\tools;D\:\\soft\\Mozilla Firefox;;D\:\\soft\\eclipse_mcu;E\:\\soft\\CodeBlocks\\MinGW\\bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1494558872/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1494558872/appendContributed=true
