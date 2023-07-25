@@ -1,7 +1,8 @@
-21:41:14 **** Incremental Build of configuration Debug for project Sinus ****
+13:07:16 **** Rebuild of configuration Debug for project Sinus ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.c" 
-gcc -o Sinus "src\\main.o" 
+gcc "-IE:\\docs\\projects\\Workspace_Sinus_test\\Sinus\\inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.c" 
+gcc "-IE:\\docs\\projects\\Workspace_Sinus_test\\Sinus\\inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sinusFuncs.o" "..\\src\\sinusFuncs.c" 
+gcc -o Sinus "src\\main.o" "src\\sinusFuncs.o" 
 
-21:41:15 Build Finished. 0 errors, 0 warnings. (took 275ms)
+13:07:16 Build Finished. 0 errors, 0 warnings. (took 440ms)
 
